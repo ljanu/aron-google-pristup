@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/soukromi.html
+!/podminky.html
+!/README.md
+!/AGENTS.md
+!/stav.yaml
+!/todo.yaml
+!/inspirace.yaml
